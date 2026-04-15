@@ -1,4 +1,4 @@
-# Workday Comp Intelligence Live
+# Workday Functional Intelligence Workflow
 
 This is a Vite React app with integrated Google Gemini AI workflows for project analysis and management.
 
