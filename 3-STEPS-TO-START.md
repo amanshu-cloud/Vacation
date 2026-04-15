@@ -27,7 +27,7 @@ Your workflows have been converted to use **Google Gemini API**. Here's exactly 
 
 1. Open `.env` file in this folder:
    ```
-   c:\Users\amanstiwari\Downloads\workday-comp-intelligence-live\.env
+   
    ```
 
 2. Find this line:
@@ -46,7 +46,7 @@ Your workflows have been converted to use **Google Gemini API**. Here's exactly 
 
 Open PowerShell and run:
 ```powershell
-cd c:\Users\amanstiwari\Downloads\workday-comp-intelligence-live
+
 npm run demo
 ```
 
